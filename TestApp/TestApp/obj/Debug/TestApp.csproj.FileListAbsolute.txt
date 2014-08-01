@@ -1,0 +1,6 @@
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Projects\SummerSchoolRepo\Test\TestApp\TestApp\obj\Debug\TestApp.pdb
